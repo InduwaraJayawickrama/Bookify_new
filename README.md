@@ -1,25 +1,3 @@
-Read file: README.md
-Ran tool
-Ran tool
-Ran tool
-Read file: Backend/pom.xml
-Read file: Frontend/package.json
-Read file: Backend/src/main/resources/application.properties
-Read file: Backend/src/main/java/com/example/Book/controller/AuthController.java
-Read file: Backend/src/main/java/com/example/Book/controller/BookingController.java
-Read file: Backend/src/main/java/com/example/Book/controller/ConsumerController.java
-Read file: Backend/src/main/java/com/example/Book/controller/ServiceProviderController.java
-Read file: Backend/src/main/java/com/example/Book/controller/ServiceController.java
-Read file: Frontend/README.md
-Read file: Frontend/src/app/Home/Home.js
-Read file: Frontend/src/app/booking/CommonCategoryView.js
-Read file: Frontend/src/app/signUp/RegisterForm.js
-Read file: Frontend/src/app/Login/LoginForm.js
-Read file: Frontend/src/app/account/client/MyProfile.js
-Read file: Frontend/src/app/account/serviceProvider/MyProfile.js
-Read file: Frontend/src/app/account/client/MyBooking.js
-Read file: Frontend/src/app/account/serviceProvider/BookingService.js
-
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/book.png" alt="Bookify Logo" width="120"/>
 </p>
@@ -130,7 +108,7 @@ Bookify_new/
 
 | Home Page | Booking | Provider Dashboard | Client Profile |
 |-----------|---------|-------------------|---------------|
-| ![](https://img.icons8.com/fluency/96/book.png) | ![](https://img.icons8.com/fluency/96/calendar.png) | ![](https://img.icons8.com/fluency/96/administrator-male.png) | ![](https://img.icons8.com/fluency/96/user.png) |
+| ![5](https://github.com/user-attachments/assets/635de1c5-4381-42c5-b4e3-f9a8466b7a6a) | ![9](https://github.com/user-attachments/assets/6b07c751-7704-4127-8a28-b0be18b4cfbc) | ![24](https://github.com/user-attachments/assets/336e2d2b-0baf-4f51-afe2-bafd6e730659) | ![22](https://github.com/user-attachments/assets/f5154eb1-63e4-45dd-b7e6-4af27b969954) |
 
 ---
 
@@ -193,25 +171,31 @@ npm start
 <td align="center">
 <img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>Contributor 1</strong></small><br/>
+<small><strong>UI/UX Designer & QA</strong></small><br/>
 <small>Role</small>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/96/user-female-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>Contributor 2</strong></small><br/>
+<small><strong>Project Manager(PM)</strong></small><br/>
 <small>Role</small>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
+<img src="[https://img.icons8.com/fluency/96/user-male-circle.png](https://media.licdn.com/dms/image/v2/C4D03AQE-Idc2y6NCGw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646676294832?e=1756339200&v=beta&t=nDZGEo0RE1livx_mZgXqxW-5cskh25EjQF2Myk7BC20)" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>Contributor 3</strong></small><br/>
+<small><strong>Developer</strong></small><br/>
 <small>Role</small>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/96/user-female-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>Contributor 4</strong></small><br/>
+<small><strong>Developer</strong></small><br/>
+<small>Role</small>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/user-female-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
+<br/>
+<small><strong>RA and Documentation</strong></small><br/>
 <small>Role</small>
 </td>
 </tr>
