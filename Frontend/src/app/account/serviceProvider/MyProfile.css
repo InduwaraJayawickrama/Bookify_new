@@ -1,0 +1,101 @@
+body {
+    background-color: #D5EFF7;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container {
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.profile-card {
+    background: #BCE3EC;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-details {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.profile-details p {
+    margin: 5px 0;
+    color: #222;
+    font-size: 16px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.edit-icon {
+    cursor: pointer;
+    color: #333;
+    display: flex;
+    align-items: center;
+}
+
+.edit-icon:hover {
+    color: #0056b3;
+}
+
+.section {
+    background: #BCE3EC;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.section h3 {
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #222;
+    font-size: 18px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.info div {
+    width: 48%;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 16px;
+}
+
+.email {
+    color: #0056b3;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .profile-container {
+        width: 95%;
+    }
+
+    .profile-card {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .profile-details {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .info div {
+        width: 100%;
+    }
+} 

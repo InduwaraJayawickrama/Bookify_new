@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;/* Home.css */
+
+.hero-section {
+    @apply bg-gradient-to-r from-blue-100 to-white p-10 text-center;
+  }
+  
+  .stats-section {
+    @apply grid grid-cols-3 gap-4 p-6;
+  }
+  
+  .footer {
+    @apply bg-gray-800 text-white text-center p-6;
+  }
