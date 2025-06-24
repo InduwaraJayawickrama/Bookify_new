@@ -169,34 +169,34 @@ npm start
 <table>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
+<img src="https://media.licdn.com/dms/image/v2/D5603AQGLtY4QHcn1Lw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721916460708?e=1756339200&v=beta&t=anGhx5bmea-WfN70B2Rjzd2sMzZfWiuYKYKAZPcj4Jg" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>UI/UX Designer & QA</strong></small><br/>
-<small>Role</small>
+<small><strong>UI/UX Designer, QA & FrontEnd developer</strong></small><br/>
+<small>Thilina Madhushanka</small>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/user-female-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQEaNtsJbBLV1Q/profile-displayphoto-shrink_400_400/B4EZWgdBLKGgAg-/0/1742153718271?e=1756339200&v=beta&t=nWNCeKzWCEck0f2p91Ek-sPcRz1RYo1m-RrPF8YDjZU" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>Project Manager(PM)</strong></small><br/>
-<small>Role</small>
+<small><strong>Project Manager(PM) & Backend Developer</strong></small><br/>
+<small>Damath De Silva</small>
 </td>
 <td align="center">
-<img src="[https://img.icons8.com/fluency/96/user-male-circle.png](https://media.licdn.com/dms/image/v2/C4D03AQE-Idc2y6NCGw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646676294832?e=1756339200&v=beta&t=nDZGEo0RE1livx_mZgXqxW-5cskh25EjQF2Myk7BC20)" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
+<img src="https://media.licdn.com/dms/image/v2/C4D03AQE-Idc2y6NCGw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646676294832?e=1756339200&v=beta&t=nDZGEo0RE1livx_mZgXqxW-5cskh25EjQF2Myk7BC20" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>Developer</strong></small><br/>
-<small>Role</small>
+<small><strong> FrontEnd developer & Backend Developer</strong></small><br/>
+<small>Induvara Ayashkantha
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/user-female-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
+<img src="https://media.licdn.com/dms/image/v2/D5603AQFtMeoOQAfQFQ/profile-displayphoto-shrink_400_400/B56Zde_stkHEAo-/0/1749645447290?e=1756339200&v=beta&t=Ae1qw7m_mjEKluK5qXqpLF2IBW6zP5qHQYhEgnzCduI" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
-<small><strong>Developer</strong></small><br/>
-<small>Role</small>
+<small><strong> FrontEnd developer & Backend Developer</strong></small><br/>
+<small>Eranda Jayasinghe</small>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/96/user-female-circle.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Contributor" />
 <br/>
 <small><strong>RA and Documentation</strong></small><br/>
-<small>Role</small>
+<small>naheem fathima nasriya</small>
 </td>
 </tr>
 </table>
